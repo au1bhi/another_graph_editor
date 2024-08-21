@@ -80,8 +80,7 @@ Leetcode风格的邻接表字符串，如 [[2,4],[1,3],[2,1],[4,3]]；确保字�
 <em>Making Node 2 the Root Instead of Node 1</em>
 </p>
 
-What happens if the graph isn't a tree? Well, the **DFS Tree** would be
-displayed instead, where *back edges* are displayed as dotted lines.
+如果图不是树怎么办？那么，将显示**深度优先搜索（DFS）树**，其中*回边*将以虚线显示。
 
 <p align="center">
     <img src="screenshots/dfsTree.png?" />
