@@ -1,3 +1,6 @@
+#Another Graph Editor  cn_zh 汉化版本
+
+
 # Another Graph Editor
 
 A graph editor inspired by [CS Academy's graph editor](https://csacademy.com/app/graph_editor/),
